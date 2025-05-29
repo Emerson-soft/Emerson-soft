@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Emerson Mendonça
+# 🧑‍💻 Emerson Mendonça
 
 **`Desenvolvedor FullStack`**
 
